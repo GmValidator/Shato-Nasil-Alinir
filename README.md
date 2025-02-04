@@ -24,3 +24,5 @@ sudo docker pull neovaprotocol/provider && sudo docker run -d --name neova --res
 ```
 docker logs -f neova
 ```
+
+# CÜZDAN ADRESLERİNİ ÖZELDEN GÖKHAN MOLLA YA İLETİNİZ. MULTİLEMEK BAŞKASINA VERMEK HİÇBİR ŞEY İFADE ETMEZ. ALINAN ADRESLER EKİBE İLETİLECEK O YÜZDEN MULTİCİLER VE HAKKETMEYENLER AVCUNU YALAYABİLİR.
