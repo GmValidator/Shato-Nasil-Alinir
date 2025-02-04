@@ -1,6 +1,7 @@
 
 
-![image](https://github.com/user-attachments/assets/41c88ef0-7c73-4494-891a-3c37c4a433e3)
+![image](https://github.com/user-attachments/assets/c1734478-7ba8-42ae-882a-4b5a90f43556)
+
 
 
  * [Topluluk kanalımız](https://t.me/corenodechat)<br>
